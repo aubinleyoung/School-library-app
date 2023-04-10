@@ -43,7 +43,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](Not yet available)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,9 +78,6 @@ Run ruby and enjoy managing your library.
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-
-
 
 👤 **Aubin SIMPEZE**
 

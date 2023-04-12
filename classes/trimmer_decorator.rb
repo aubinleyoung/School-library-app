@@ -1,5 +1,5 @@
 require_relative './decorator'
-class TimmerDecorator < Decorator
+class TrimmerDecorator < Decorator
   def correct_name
     @nameable.correct_name[0..9]
   end

@@ -25,9 +25,11 @@ class Person < Nameable
   def correct_name
     @name
   end
+
   def rent_book
-    Rental.new(Date.today,book,self)
+    Rental.new(Date.today, book, self)
   end
+
   def book_rented_out
     rentals.map(&:book)
   end

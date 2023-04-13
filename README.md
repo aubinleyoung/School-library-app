@@ -4,8 +4,8 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+    - [Tech Stack](#Tech_Stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -23,29 +23,28 @@
 
 **[School-library-app]** is a project where I practiced Object Oriented Programming to build a school library app.
 ## 🛠 Built With <a name="built-with"></a>
+
+## Tech Stack
 - **[Ruby]**
-- **[Irb]**
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[Person_Student_and_Teacher_classes]**
-- **[Use_of_"Decorator"_design_pattern.]**
+
+- **[Person_Class]**
+- **[Student_Class]**
+- **[Teacher_Class]**
+- **[Nameable_Class]**
+- **[Base_Decorator]**
+- **[CapitalizeDecorator_and_TrimmerDecorator]**
+- **[Has_Many_relationship_between_classroom_and_student]**
+- **[Class_Rental]**
+- **[Class_Book]**
 - **[Associations.]**
-- **[Basic_UI.]**
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-- [Live Demo Link](Not yet available)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -91,8 +90,7 @@ Run ruby and enjoy managing your library.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-- [ ] **[Code_refactoring]**
+- [ ] **[Basic_UI.]**
 - [ ] **[Data_preservation]**
 - [ ] **[Unit_testing]**
 
@@ -121,7 +119,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- Hat tip to [Microvers](www.microverse.org)  and all the staff
+- Hat tip to [Microvers](https://www.microverse.org/)  and all the staff
 - Thanks to My coding Partners 
 - Thanks to My Morning-session-group and Standup-team Partners and
 - Thanks to Code Reviewers

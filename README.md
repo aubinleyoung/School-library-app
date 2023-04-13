@@ -119,7 +119,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- Hat tip to [Microvers](www.microverse.org)  and all the staff
+- Hat tip to [Microvers](https://www.microverse.org/)  and all the staff
 - Thanks to My coding Partners 
 - Thanks to My Morning-session-group and Standup-team Partners and
 - Thanks to Code Reviewers
